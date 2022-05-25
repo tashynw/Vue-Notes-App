@@ -1,7 +1,6 @@
 <template>
   <EntrySection :addToNotes='addToNotes' :notes='notes' @add-note="addToNotes"/>
   <NotesSection :notes='notes' :deleteNote='deleteNote' />
-  <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
 </template>
 
 <script>
