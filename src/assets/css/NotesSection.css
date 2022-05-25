@@ -1,0 +1,12 @@
+.notes-container{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.note-box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
